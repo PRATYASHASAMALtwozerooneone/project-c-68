@@ -1,0 +1,45 @@
+body
+{
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+.movie head
+{
+    width: 100%;
+}
+.travel main div
+{
+    display: inline;
+}
+.travel_mainDiv hr
+{
+    width: 230px:
+}
+
+.movie head i
+{
+    float:right
+}
+}
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999
+}
+
+.movie text span
+{
+    color:hotpink;
